@@ -1,0 +1,6 @@
+.img {
+  transition: all 550ms;
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+}

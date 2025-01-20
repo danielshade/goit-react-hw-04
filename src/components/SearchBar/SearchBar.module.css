@@ -1,0 +1,29 @@
+.search {
+  background-color: rgb(1, 1, 137);
+  padding: 20px;
+  margin-bottom: 20px;
+  max-width: 200%;
+}
+
+.formSearch {
+  position: relative;
+}
+
+.inputSearch {
+  border-radius: 4px;
+  width: 280px;
+  height: 40px;
+  padding: 0;
+  outline: none;
+  border: 1px solid #747474;
+  padding-left: 50px;
+}
+
+.btnSearch {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  position: absolute;
+  top: 23%;
+  right: 59%;
+}
